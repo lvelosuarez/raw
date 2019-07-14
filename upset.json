@@ -1,0 +1,14 @@
+{
+	"file": "https://www.dropbox.com/s/9bm8egm6kbr21sk/upset.csv?dl=0",
+	"name": "FINAL",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "rs" },
+		{ "type": "integer", "index": 12, "name": "ac" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 11 }
+	]
+}
